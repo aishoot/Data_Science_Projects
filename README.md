@@ -1,5 +1,5 @@
 # DataScienceProjects
-Code of my data science projects.
+Code of a few data science projects.
 
 
 *More code will be uploaded soon!*
