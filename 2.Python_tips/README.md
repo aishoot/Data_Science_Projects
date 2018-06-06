@@ -6,7 +6,6 @@ import  collections
 test=['a','a','b','c','c','c']
 collections.Counter(test)
 ```
-结果为：
-Counter({'c': 3, 'a': 2, 'b': 1})
+结果：Counter({'c': 3, 'a': 2, 'b': 1})
 
 
