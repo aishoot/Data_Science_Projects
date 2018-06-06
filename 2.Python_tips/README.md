@@ -9,7 +9,7 @@ collections.Counter(test)
 ```
 
 2.Python模式匹配内置库[fnmatch & glob](https://www.cnblogs.com/dachenzi/p/8215584.html) <br>
-glob == os.listdir + fnmatch
+*glob == os.listdir + fnmatch*
 ```python
 import glob
 glob.glob('*.txt')
