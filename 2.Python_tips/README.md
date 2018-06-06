@@ -8,10 +8,10 @@ collections.Counter(test)
 ```
 结果：Counter({'c': 3, 'a': 2, 'b': 1})
 
-2.Python模式匹配内置库fnmatch & glob <br>
+2.Python模式匹配内置库[fnmatch & glob](https://www.cnblogs.com/dachenzi/p/8215584.html) <br>
 glob == os.listdir + fnmatch
-```
+```python
 import glob
 glob.glob('*.txt')
 ```
-Result: ['a1.txt', 'a2.txt', 'aA.txt']
+结果: ['a1.txt', 'a2.txt', 'aA.txt']
