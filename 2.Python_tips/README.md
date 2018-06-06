@@ -2,7 +2,7 @@
 
 1.对一个列表进行的不同类别计数
 ```python
-import  collections
+import collections
 test=['a','a','b','c','c','c']
 collections.Counter(test)
 ```
