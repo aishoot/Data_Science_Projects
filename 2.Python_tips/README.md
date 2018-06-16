@@ -23,3 +23,9 @@ list({}.fromkeys(test).keys())  # Method 2
 # Result:[1, 2, 3, 4]
 ```
 
+4.无限接近0的数
+```python
+eps = np.finfo(np.float).eps
+print(eps)
+# Result: 2.220446049250313e-16
+```
