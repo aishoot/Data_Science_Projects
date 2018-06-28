@@ -30,10 +30,10 @@ print(eps)
 # Result: 2.220446049250313e-16
 ```
 
-5.
+5.在Jupyter中在线听Audio
 ```python
-
-# Result: 
+import IPython.display
+IPython.display.Audio(data=signal, rate)
 ```
 
 6.
@@ -55,6 +55,24 @@ print(eps)
 ```
 
 9.
+```python
+
+# Result: 
+```
+
+10.
+```python
+
+# Result: 
+```
+
+11.
+```python
+
+# Result: 
+```
+
+12.
 ```python
 
 # Result: 
