@@ -29,3 +29,33 @@ eps = np.finfo(np.float).eps
 print(eps)
 # Result: 2.220446049250313e-16
 ```
+
+5.
+```python
+
+# Result: 
+```
+
+6.
+```python
+
+# Result: 
+```
+
+7.
+```python
+
+# Result: 
+```
+
+8.
+```python
+
+# Result: 
+```
+
+9.
+```python
+
+# Result: 
+```
