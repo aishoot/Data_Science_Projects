@@ -81,3 +81,53 @@ print(a[::-1])
 
 # Result: 
 ```
+
+13.
+```python
+
+# Result: 
+```
+
+14.
+```python
+
+# Result: 
+```
+
+15.
+```python
+
+# Result: 
+```
+
+16.
+```python
+
+# Result: 
+```
+
+17.
+```python
+
+# Result: 
+```
+
+18.
+```python
+
+# Result: 
+```
+
+19.
+```python
+
+# Result: 
+```
+
+20.
+```python
+
+# Result: 
+```
+
+
