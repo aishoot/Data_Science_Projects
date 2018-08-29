@@ -78,10 +78,10 @@ else:
     print("Did not break out of for loop")
 ```
 
-11.
+11. 转换列表为逗号分隔符格式
 ```python
-
-# Result: 
+num = [2, 3, 'hello', 3.4]
+print(','.join(map(str, num)))
 ```
 
 12.
