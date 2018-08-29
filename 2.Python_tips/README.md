@@ -37,22 +37,25 @@ Audio(data, rate=framerate)
 or Audio('/path/to/sound.wav')
 ```
 
-6.
+6. 将列表中的所有元素组合成字符串
 ```python
-
-# Result: 
+a = ["Python", "is", "awesome"]
+print("".join(a))
 ```
 
-7.
+7. 检查两个字符串是不是由相同字母不同顺序组成
 ```python
-
-# Result: 
+from collections import Counter
+Counter(str1) == Counter(str2)
 ```
 
-8.
+8. 反转字符串
 ```python
+num = 1234
+reverse_num = int(str(num)[::-1])
 
-# Result: 
+a = [4, 3, 2, 5]
+print(a[::-1])
 ```
 
 9.
