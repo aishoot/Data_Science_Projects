@@ -49,7 +49,7 @@ from collections import Counter
 Counter(str1) == Counter(str2)
 ```
 
-8. 反转字符串
+8. 反转字符
 ```python
 num = 1234
 reverse_num = int(str(num)[::-1])
@@ -58,16 +58,24 @@ a = [4, 3, 2, 5]
 print(a[::-1])
 ```
 
-9.
+9. 列表list拷贝问题
 ```python
-
-# Result: 
+#以下复制方式a, b均改变:
+b = a
+b[0] = 10
+#以下拷贝方式改变b, a不会改变(深拷贝):
+b = a[:]
+或者b = a.copy()
 ```
 
-10.
+10. for else语法
 ```python
-
-# Result: 
+a = [1,2,3,4,5]
+for el in a:
+    if el == 0:
+        break
+else:
+    print("Did not break out of for loop")
 ```
 
 11.
