@@ -33,7 +33,7 @@ print(eps)
 5.在Jupyter中在线听Audio
 ```python
 from IPython.display import Audio
-Audio(data,rate=framerate)
+Audio(data, rate=framerate)
 or Audio('/path/to/sound.wav')
 ```
 
